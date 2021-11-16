@@ -1,1 +1,1 @@
-# flex-project
+This project will asess my ability to create an html page and style it with css and with the techniqes of display:flex; command.
